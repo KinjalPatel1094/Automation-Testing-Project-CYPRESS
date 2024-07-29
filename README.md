@@ -1,4 +1,4 @@
-### Ngx-Admin Cypress UI Automation Project
+# Ngx-Admin Cypress UI Automation Project
 
 This is modified and more lightweight version of original application to practice UI Automation with Cypress.
 
