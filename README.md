@@ -17,21 +17,21 @@ Step 1: Clone the Repository
   2. Open Terminal/command line > Navigate to this folder.
 
 Step 2: Install Dependencies
-  1. Install the project dependencies using npm: npm install
+  1. Install the project dependencies using npm: `npm install`
 
 Step 3: Run Application 
-  1. To run application on your local machine: npm start
+  1. To run application on your local machine: `npm start`
   2. (after compiled successfully , the application will be accessible at `http://localhost:4200/`)
 
 Step 4: Install Cypress
-  1. Install Cypress as a development dependency: npm install cypress --save-dev
+  1. Install Cypress as a development dependency: `npm install cypress --save-dev`
 
 # Run Tests
 Step 1: Open Cypress Test Runner
-  1. To open the Cypress Test Runner, run: npx cypress open
+  1. To open the Cypress Test Runner, run: `npx cypress open`
 
 Step 2: Run Cypress Tests in Headless mode
-  1. To run all Cypress tests headlessly, use: npx cypress run
+  1. To run all Cypress tests headlessly, use: `npx cypress run`
 
 
 
